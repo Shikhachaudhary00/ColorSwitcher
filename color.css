@@ -1,0 +1,49 @@
+body{
+    color:white;
+    background-color: black;
+    margin: 50px;
+}
+.btn{
+    width: 100px;
+    height: 80px;
+    padding: 10px;
+    margin: 2px;
+    align-items: center;
+    margin-left: 80px;
+    align-content: center;
+}
+h1{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+#red{
+background-color: red;
+border-radius: 10%;
+border-color:red ;
+}
+#yellow{
+    background-color: yellow;
+    border-radius: 10%;
+    border-color:yellow ;
+}
+#green{
+    background-color: green;
+    border-radius: 10%;
+    border-color: green;
+}
+#orange{
+    background-color: orange;
+    border-radius: 10%;
+    border-color: orange;
+}
+#reset{
+background-color: white;
+border-radius: 20%;
+border-color: white;
+}
+
